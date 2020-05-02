@@ -1,5 +1,5 @@
 """ This program parses MARCOIL results looking for "regular heptads". The heptad fragments must be at least a user-specified length or greater. The residues must also have a probabililty greater than or equal to a user-specified threshold.
-
+1. ADD ABILITY TO LOOK AT RES NUMBER
 Created by: Jay Spencer
  """
 import re, sys, copy, os, shutil
